@@ -1,0 +1,18 @@
+.enfoque{
+	background-color: #745234;
+	background-image: url('https://firebasestorage.googleapis.com/v0/b/landingsuculentasgrunegt.appspot.com/o/fondo3.jpg?alt=media&token=dcf59199-5cd8-4db5-848c-fd00df432d0a');
+	background-repeat: no-repeat;
+    background-size: 100%;
+    background-position-y: center;
+}
+.whiteColor{
+    filter: invert(0%);
+    width: 30%
+}
+.fa.fa-instagram {
+	color: transparent;
+	background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+	background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+	background-clip: text;
+	-webkit-background-clip: text;
+  }
